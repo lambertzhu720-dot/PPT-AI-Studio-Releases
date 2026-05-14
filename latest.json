@@ -1,0 +1,12 @@
+{
+  "app_name": "PPT AI Studio",
+  "latest_version": "1.0.7",
+  "channel": "stable",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.0.7",
+  "download_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.0.7/PPT_AI_Studio_Setup_x64_v1.0.7.exe",
+  "mirror_urls": [
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.0.7/PPT_AI_Studio_Setup_x64_v1.0.7.exe"
+  ],
+  "sha256": "e3b3c6ed913ce6713fd5dbc5a86952cffbcca40f9b9dc9f6522b311778400648",
+  "update_log": "请查看 Release 页面获取更新说明。"
+}
