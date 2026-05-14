@@ -1,9 +1,10 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "channel": "stable",
-  "update_manifest_url": "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
+  "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
+    "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
     "https://ghproxy.com/https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json"
   ]
 }
