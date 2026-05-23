@@ -1,14 +1,14 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.0.26",
+  "latest_version": "1.0.27",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.0.26",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.0.26.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.0.27",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.0.27.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.0.26/PPT_AI_Studio_Setup_x64_v1.0.26.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.0.26/PPT_AI_Studio_Setup_x64_v1.0.26.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.0.27/PPT_AI_Studio_Setup_x64_v1.0.27.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.0.27/PPT_AI_Studio_Setup_x64_v1.0.27.exe"
   ],
-  "sha256": "e75e3b92c2024182bbe97b4948c01194ca14740e747e6da1bc98af7193441d8b",
-  "size": 58556631,
+  "sha256": "79e26e1fc9049babe8a912d58290cefd1f3d2db33ff643b83b27036b71e72ed6",
+  "size": 58637512,
   "update_log": "请查看 Release 页面获取更新说明。"
 }
