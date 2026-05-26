@@ -1,6 +1,6 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.0.37",
+  "version": "1.0.38",
   "channel": "stable",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
