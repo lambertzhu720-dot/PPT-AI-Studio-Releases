@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "channel": "stable",
-  "update_log": "更新内容：\n- 优化检查更新 UI\n- 直接点击下载链接即可下载更新\n- 修复已知 bug",
+  "update_log": "更新内容：\n- 优化存储目录 UI\n- 直接点击下载链接即可下载更新\n- 修复已知 bug",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
