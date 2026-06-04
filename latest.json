@@ -1,14 +1,14 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.1.15",
+  "latest_version": "1.1.16",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.15",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.15.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.16",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.16.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.15/PPT_AI_Studio_Setup_x64_v1.1.15.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.15/PPT_AI_Studio_Setup_x64_v1.1.15.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.16/PPT_AI_Studio_Setup_x64_v1.1.16.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.16/PPT_AI_Studio_Setup_x64_v1.1.16.exe"
   ],
-  "sha256": "aa9bb606cc95cea21a60403cfce0f5430addb608b3e83aac0f5d1e5d354df02d",
-  "size": 55729052,
-  "update_log": "更新内容：\n- 优化首页布局，更加紧凑\n- 修复目录选择逻辑\n- 修复已知 bug"
+  "sha256": "2475d31d9bb7d71820c81908abae49db03660c6a3371aef185b1d3edd7af3d93",
+  "size": 55751358,
+  "update_log": "更新内容：\n- 优化首页布局，更加紧凑\n- 添加自动更新\n- 修复已知 bug"
 }
