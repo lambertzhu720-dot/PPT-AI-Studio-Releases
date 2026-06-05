@@ -1,14 +1,14 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.1.20",
+  "latest_version": "1.1.21",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.20",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.20.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.21",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.21.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.20/PPT_AI_Studio_Setup_x64_v1.1.20.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.20/PPT_AI_Studio_Setup_x64_v1.1.20.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.21/PPT_AI_Studio_Setup_x64_v1.1.21.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.21/PPT_AI_Studio_Setup_x64_v1.1.21.exe"
   ],
-  "sha256": "39af0ae3ed7abd34f17ea8851076abf524aafe6acce7abd6565aa8c34245935e",
-  "size": 55861835,
-  "update_log": "更新内容：\n- 优化首页布局\n- 增加对话添加附件功能\n- 修复已知 bug"
+  "sha256": "3f6c5250f21cd278afd6baa662558970ee4804b621b13bdf10f13382f9a4580b",
+  "size": 55948996,
+  "update_log": "更新内容：\n- 优化首页布局\n- 增加对话插入功能\n- 修复已知 bug"
 }
