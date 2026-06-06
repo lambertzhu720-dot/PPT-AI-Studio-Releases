@@ -1,14 +1,14 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.1.22",
+  "latest_version": "1.1.23",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.22",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.22.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.23",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.23.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.22/PPT_AI_Studio_Setup_x64_v1.1.22.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.22/PPT_AI_Studio_Setup_x64_v1.1.22.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.23/PPT_AI_Studio_Setup_x64_v1.1.23.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.23/PPT_AI_Studio_Setup_x64_v1.1.23.exe"
   ],
-  "sha256": "8c5423c966fe7f7d8891129d8a34eaf09343185bd286459ac3f2c3c57d0b1763",
-  "size": 55961520,
-  "update_log": "更新内容：\n- 优化ai对话的UI\n- 调整word样式默认值\n- 修复已知 bug"
+  "sha256": "6417dcd6be8cd69fe19b1521d60ffcd54f9e675cb35814506a7e4bf510f07f38",
+  "size": 55977999,
+  "update_log": "更新内容：\n- 优化设置中心的UI\n- 增加样式ai起草\n- 修复已知 bug"
 }
