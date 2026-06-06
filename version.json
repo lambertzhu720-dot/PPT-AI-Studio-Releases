@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.1.25",
+  "version": "1.1.26",
   "channel": "stable",
-  "update_log": "更新内容：\n- 新增：支持在文档大纲中分割章节、页面和块\n- 增加样式ai起草\n- 修复已知 bug",
+  "update_log": "更新内容：\n- 新增：支持右侧准确预览\n- 进一步优化ui\n- 修复已知 bug",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
