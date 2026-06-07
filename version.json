@@ -1,6 +1,6 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.1.26",
+  "version": "1.1.27",
   "channel": "stable",
   "update_log": "更新内容：\n- 新增：支持右侧准确预览\n- 进一步优化ui\n- 修复已知 bug",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
