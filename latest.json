@@ -1,14 +1,14 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.1.27",
+  "latest_version": "1.1.28",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.27",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.27.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.28",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.28.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.27/PPT_AI_Studio_Setup_x64_v1.1.27.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.27/PPT_AI_Studio_Setup_x64_v1.1.27.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.28/PPT_AI_Studio_Setup_x64_v1.1.28.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.28/PPT_AI_Studio_Setup_x64_v1.1.28.exe"
   ],
-  "sha256": "9cf21fe1c258c38e48651e1b250252c911aa8ae769bee4a5b557bad8023cb112",
-  "size": 56003941,
-  "update_log": "更新内容：\n- 新增：支持右侧准确预览\n- 进一步优化ui\n- 修复已知 bug"
+  "sha256": "725ca7850eb3bf1ecfbac684f7923aedd92606116e0093b0b59bcbe702ae4f0c",
+  "size": 56005015,
+  "update_log": "更新内容：\n- 解决图片超时问题\n- 进一步优化ui\n- 修复已知 bug"
 }
