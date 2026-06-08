@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.1.29",
+  "version": "1.1.30",
   "channel": "stable",
-  "update_log": "更新内容：\n- 解决图片弹窗回填的问题\n- 进一步优化ui\n- 修复已知 bug",
+  "update_log": "更新内容：\n- 优化预览字号和真实字号不一致问题\n- 进一步优化ui\n- 修复已知 bug",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
