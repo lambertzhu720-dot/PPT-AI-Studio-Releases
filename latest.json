@@ -1,15 +1,15 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.1.33",
+  "latest_version": "1.1.35",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.33",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.33.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.35",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.35.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.33/PPT_AI_Studio_Setup_x64_v1.1.33.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.33/PPT_AI_Studio_Setup_x64_v1.1.33.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.35/PPT_AI_Studio_Setup_x64_v1.1.35.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.35/PPT_AI_Studio_Setup_x64_v1.1.35.exe"
   ],
-  "sha256": "27b65a16d4abe32cab38d2898461f90df191d132fd88fcd3468cd852996d266b",
-  "size": 56075554,
+  "sha256": "3691b5dce32fb6693787e6cf3c7f1877ffdfba396f64d7ea0a36df77f7d0cf08",
+  "size": 56081663,
   "update_log": "更新内容：\n- 增加激活兑换码入口和试用3天1000000额度\n- 进一步优化ui\n- 修复已知 bug",
   "purchase_urls": {
     "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
