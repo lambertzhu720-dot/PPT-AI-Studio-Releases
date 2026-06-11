@@ -1,16 +1,16 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.1.36",
+  "latest_version": "1.1.37",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.36",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.36.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.37",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.37.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.36/PPT_AI_Studio_Setup_x64_v1.1.36.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.36/PPT_AI_Studio_Setup_x64_v1.1.36.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.37/PPT_AI_Studio_Setup_x64_v1.1.37.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.37/PPT_AI_Studio_Setup_x64_v1.1.37.exe"
   ],
-  "sha256": "7a871ff807f1b62f8a7251e7b3b3ee6b8a0954fb8c8493f83c229194ec87f8ac",
-  "size": 56129165,
-  "update_log": "更新内容：\n- 新增：支持图片提示词语言策略与轻量翻译功能\n- 更新相关测试用例，验证新功能的正确性。\n- 引入图片提示词策略，优化用户输入与系统提示的处理。\n- 修复已知 bug",
+  "sha256": "040d12b53f7fb57eac1281eb4f806cb6448ea834c62409aa343d68bdbad5f5c3",
+  "size": 56149945,
+  "update_log": "更新内容：\n- 新增：支持表格节点类型的结构化内容生成，AI 对话可生成并预览文本/表格节点。\n- 新增：支持打开输出目录，方便从应用直接定位生成文件。\n- 新增：聊天工具抽屉支持拖拽调整宽度，并记住上次使用宽度。\n- 优化：聊天面板支持 Markdown 渲染、复制反馈和更清晰的消息操作样式。\n- 优化：调整样式预设与文字样式存储结构，补充样式元数据和预设选项支持。\n- 优化：图片提示词优化逻辑优先保留用户输入，并增加回退机制。\n- 更新：补充提示词语言边界审计与相关测试，验证表格结构化内容、样式预设和图片提示词逻辑。",
   "purchase_urls": {
     "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
     "en": ""
