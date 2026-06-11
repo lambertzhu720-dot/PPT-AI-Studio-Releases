@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.1.35",
+  "version": "1.1.36",
   "channel": "stable",
-  "update_log": "更新内容：\n- 增加激活兑换码入口和试用3天1000000额度\n- 进一步优化ui\n- 修复已知 bug",
+  "update_log": "更新内容：\n- 新增：支持图片提示词语言策略与轻量翻译功能\n- 更新相关测试用例，验证新功能的正确性。\n- 引入图片提示词策略，优化用户输入与系统提示的处理。\n- 修复已知 bug",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
