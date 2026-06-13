@@ -1,15 +1,15 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.1.57",
+  "latest_version": "1.1.58",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.57",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.57.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.58",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.58.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.57/PPT_AI_Studio_Setup_x64_v1.1.57.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.57/PPT_AI_Studio_Setup_x64_v1.1.57.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.58/PPT_AI_Studio_Setup_x64_v1.1.58.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.58/PPT_AI_Studio_Setup_x64_v1.1.58.exe"
   ],
-  "sha256": "f69013f13eec228b5e2233b9766e17b7610b86f2dee01f4d0ac999805218609f",
-  "size": 56270318,
+  "sha256": "1d652ddd1b1afd057af5253f500c288d98a65a07be5c06ca118f209ebe7923d0",
+  "size": 56312192,
   "update_log": "更新内容：\n- 修复：本地选择文件/图片主入口统一走受控 Gateway，文档默认进入 PPT-EXCEL-AI生成，图片默认进入 images-AI生成。\n- 优化：浏览器文件选择仅作为上传或 picker 不可用兜底，避免发布版默认打开桌面。\n- 优化：设置中心本地数据页区分结果目录与管理诊断入口。",
   "purchase_urls": {
     "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
