@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.1.58",
+  "version": "1.1.59",
   "channel": "stable",
-  "update_log": "更新内容：\n- 修复：本地选择文件/图片主入口统一走受控 Gateway，文档默认进入 PPT-EXCEL-AI生成，图片默认进入 images-AI生成。\n- 优化：浏览器文件选择仅作为上传或 picker 不可用兜底，避免发布版默认打开桌面。\n- 优化：设置中心本地数据页区分结果目录与管理诊断入口。",
+  "update_log": "更新内容：\n- 优化：增强图像主导性判断与高度估算逻辑\n- 优化：更新前端文本描述和提示信息\n- 修复：修复其他已知问题",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
