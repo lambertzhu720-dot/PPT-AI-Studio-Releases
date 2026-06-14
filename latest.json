@@ -1,16 +1,16 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.1.59",
+  "latest_version": "1.2.1",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.1.59",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.1.59.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.2.1",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.2.1.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.59/PPT_AI_Studio_Setup_x64_v1.1.59.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.1.59/PPT_AI_Studio_Setup_x64_v1.1.59.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.2.1/PPT_AI_Studio_Setup_x64_v1.2.1.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.2.1/PPT_AI_Studio_Setup_x64_v1.2.1.exe"
   ],
-  "sha256": "65996c0d44d13a23504b116913f0d14ded4e557b4b6651ba9171964ffa888aac",
-  "size": 56315733,
-  "update_log": "更新内容：\n- 优化：增强图像主导性判断与高度估算逻辑\n- 优化：更新前端文本描述和提示信息\n- 修复：修复其他已知问题",
+  "sha256": "e11ec1d63fa9514da250b060cd88078d628f1feb96ba58070009cd5b21fc4d0e",
+  "size": 56424656,
+  "update_log": "- 优化：切换语言时增加确认提示和状态管理\n- 优化：规范化样式选择值处理逻辑\n- 新增：本地化样式预设选项并更新 UI 文本\n- 更新：优化对话框样式和布局，增强用户体验\n- 优化：调整 AI 工具面板的宽度设置和计算逻辑\n- 优化：重命名图像工作室会话的逻辑和条件",
   "purchase_urls": {
     "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
     "en": ""

@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.1.59",
+  "version": "1.2.1",
   "channel": "stable",
-  "update_log": "更新内容：\n- 优化：增强图像主导性判断与高度估算逻辑\n- 优化：更新前端文本描述和提示信息\n- 修复：修复其他已知问题",
+  "update_log": "- 优化：切换语言时增加确认提示和状态管理\n- 优化：规范化样式选择值处理逻辑\n- 新增：本地化样式预设选项并更新 UI 文本\n- 更新：优化对话框样式和布局，增强用户体验\n- 优化：调整 AI 工具面板的宽度设置和计算逻辑\n- 优化：重命名图像工作室会话的逻辑和条件",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
