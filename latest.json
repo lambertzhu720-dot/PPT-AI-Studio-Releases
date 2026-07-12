@@ -1,16 +1,16 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.3.2",
+  "latest_version": "1.3.3",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.3.2",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.3.2.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.3.3",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.3.3.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.3.2/PPT_AI_Studio_Setup_x64_v1.3.2.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.3.2/PPT_AI_Studio_Setup_x64_v1.3.2.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.3.3/PPT_AI_Studio_Setup_x64_v1.3.3.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.3.3/PPT_AI_Studio_Setup_x64_v1.3.3.exe"
   ],
-  "sha256": "365d76f93d8781144b503cc0feed725f5be3bcfbda8bf42f611a5e5b8c13cba2",
-  "size": 59679912,
-  "update_log": "更新内容：\n- 收口：记录 AI 工具历史迁移结果\n- 前端：分页加载 AI 工具历史\n- 存储：取消 AI 工具历史硬裁剪\n- 文档：定义 AI 工具历史分页与保留合同\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性",
+  "sha256": "2f753adf0c0844812065f8546b2b062ceb762791bf495926b04ee66244db03d0",
+  "size": 59677345,
+  "update_log": "更新内容：\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
   "purchase_urls": {
     "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
     "en": ""

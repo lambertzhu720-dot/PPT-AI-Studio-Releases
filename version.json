@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "channel": "stable",
-  "update_log": "更新内容：\n- 收口：记录 AI 工具历史迁移结果\n- 前端：分页加载 AI 工具历史\n- 存储：取消 AI 工具历史硬裁剪\n- 文档：定义 AI 工具历史分页与保留合同\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性",
+  "update_log": "更新内容：\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
