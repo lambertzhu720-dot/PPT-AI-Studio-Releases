@@ -1,16 +1,16 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.3.3",
+  "latest_version": "1.3.5",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.3.3",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.3.3.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.3.5",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.3.5.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.3.3/PPT_AI_Studio_Setup_x64_v1.3.3.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.3.3/PPT_AI_Studio_Setup_x64_v1.3.3.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.3.5/PPT_AI_Studio_Setup_x64_v1.3.5.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.3.5/PPT_AI_Studio_Setup_x64_v1.3.5.exe"
   ],
-  "sha256": "2f753adf0c0844812065f8546b2b062ceb762791bf495926b04ee66244db03d0",
-  "size": 59677345,
-  "update_log": "更新内容：\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
+  "sha256": "4047f88e639960bc7f73f57f76fdc0ed95bf3ab413001380e6e8c4950b33c699",
+  "size": 59677235,
+  "update_log": "更新内容：\n- 优化：更新发布流程，确保当前分支推送及标签创建\n- 优化：发布流程支持根据提交摘要生成更新说明草稿，减少发版前手工整理\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
   "purchase_urls": {
     "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
     "en": ""
