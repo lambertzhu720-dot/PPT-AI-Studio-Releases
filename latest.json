@@ -1,29 +1,29 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.5.5",
+  "latest_version": "1.5.6",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.5.5",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.5.5.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.5.6",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.5.6.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.5.5/PPT_AI_Studio_Setup_x64_v1.5.5.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.5.5/PPT_AI_Studio_Setup_x64_v1.5.5.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.5.6/PPT_AI_Studio_Setup_x64_v1.5.6.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.5.6/PPT_AI_Studio_Setup_x64_v1.5.6.exe"
   ],
-  "sha256": "628261029786750629896d405ba268e106e7e68766211b98b1ca1845ed0cb77e",
-  "size": 60071671,
+  "sha256": "cb4cfb3706dbabe872d2250e5f2af981f2405011fed34967528003cb68055d71",
+  "size": 60066737,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 更新：修改前端资源文件路径，增强导出菜单功能\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
+  "update_log": "更新内容：\n- 优化：增强许可证信用管理功能\n- 更新：添加信用和扩展链接，完善购买信息\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
   "purchase_urls": {
     "activation": {
       "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
       "en": ""
     },
     "credit": {
-      "zh": "",
+      "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
       "en": ""
     },
     "extension": {
-      "zh": "",
+      "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
       "en": ""
     }
   }
