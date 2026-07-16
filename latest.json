@@ -1,18 +1,18 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.5.3",
+  "latest_version": "1.5.5",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.5.3",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.5.3.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.5.5",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.5.5.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.5.3/PPT_AI_Studio_Setup_x64_v1.5.3.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.5.3/PPT_AI_Studio_Setup_x64_v1.5.3.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.5.5/PPT_AI_Studio_Setup_x64_v1.5.5.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.5.5/PPT_AI_Studio_Setup_x64_v1.5.5.exe"
   ],
-  "sha256": "842d0856d2dad5c6b33ad84902301f6b63447a280e16db25b96ce450165c0a87",
-  "size": 60073375,
+  "sha256": "628261029786750629896d405ba268e106e7e68766211b98b1ca1845ed0cb77e",
+  "size": 60071671,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 更新：页面预览组件支持显示图片和角色信息\n- 更新：修改前端资源引用及增强输入处理逻辑\n- 新增：扩充 PPT 上下文预设的使用场景和身份风格\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性",
+  "update_log": "更新内容：\n- 更新：修改前端资源文件路径，增强导出菜单功能\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
   "purchase_urls": {
     "activation": {
       "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
