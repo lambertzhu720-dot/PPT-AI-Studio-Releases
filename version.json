@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.5.1",
+  "version": "1.5.3",
   "channel": "stable",
-  "update_log": "更新内容：\n- 优化：增强模型选择的验证逻辑\n- 新增：支持模型兼容性自动刷新功能\n- 优化：更新前端资源文件和国际化文本\n- 新增：支持文本模型的兼容性测试与配置\n- 新增：添加新手入门视频字幕和录屏卡点文档\n- 优化：按 owner 拆分前端主入口",
+  "update_log": "更新内容：\n- 更新：页面预览组件支持显示图片和角色信息\n- 更新：修改前端资源引用及增强输入处理逻辑\n- 新增：扩充 PPT 上下文预设的使用场景和身份风格\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
