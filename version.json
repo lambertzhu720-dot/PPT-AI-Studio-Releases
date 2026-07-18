@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.6.0",
+  "version": "1.6.2",
   "channel": "stable",
-  "update_log": "更新内容：\n- 新增：上传许可证服务文件\n- 新增：增加额度与官方调用活动明细\n- 修复：收口模型失败证据与额度提示\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性",
+  "update_log": "更新内容：\n- 优化：重构许可证信用活动面板组件\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
