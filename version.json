@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.6.7",
+  "version": "1.6.8",
   "channel": "stable",
-  "update_log": "更新内容：\n- 优化：增强图表渲染前的有效性检查\n- 修复图表渲染颜色与错误反馈",
+  "update_log": "更新内容：\n- 优化：重构 Windows 安装程序启动逻辑，使用前台激活方法\n- 新增：支持应用更新安装功能",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",

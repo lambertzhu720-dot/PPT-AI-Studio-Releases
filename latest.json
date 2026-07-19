@@ -1,18 +1,18 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.6.7",
+  "latest_version": "1.6.8",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.6.7",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.6.7.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.6.8",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.6.8.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.7/PPT_AI_Studio_Setup_x64_v1.6.7.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.7/PPT_AI_Studio_Setup_x64_v1.6.7.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.8/PPT_AI_Studio_Setup_x64_v1.6.8.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.8/PPT_AI_Studio_Setup_x64_v1.6.8.exe"
   ],
-  "sha256": "72f86d25d74f05dfad32613d3f8fdff6689a88e107a62de15799bf4df9d1c920",
-  "size": 60180583,
+  "sha256": "b38dbf6d365ebf08b6e50e96d2fe2d6b8feff012957cd9069bf869be9a606e7f",
+  "size": 60231993,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 优化：增强图表渲染前的有效性检查\n- 修复图表渲染颜色与错误反馈",
+  "update_log": "更新内容：\n- 优化：重构 Windows 安装程序启动逻辑，使用前台激活方法\n- 新增：支持应用更新安装功能",
   "purchase_urls": {
     "activation": {
       "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
