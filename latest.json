@@ -1,18 +1,18 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.6.6",
+  "latest_version": "1.6.7",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.6.6",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.6.6.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.6.7",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.6.7.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.6/PPT_AI_Studio_Setup_x64_v1.6.6.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.6/PPT_AI_Studio_Setup_x64_v1.6.6.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.7/PPT_AI_Studio_Setup_x64_v1.6.7.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.7/PPT_AI_Studio_Setup_x64_v1.6.7.exe"
   ],
-  "sha256": "346e5a16bc46d97cb7da60da549bf888559fc9b784439a0aed5e89ff809ea4de",
-  "size": 60167911,
+  "sha256": "72f86d25d74f05dfad32613d3f8fdff6689a88e107a62de15799bf4df9d1c920",
+  "size": 60180583,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 优化：更新新手入门录屏操作卡，增加详细录制步骤和注意事项\n- 扩展表格时间标签识别\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
+  "update_log": "更新内容：\n- 优化：增强图表渲染前的有效性检查\n- 修复图表渲染颜色与错误反馈",
   "purchase_urls": {
     "activation": {
       "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
