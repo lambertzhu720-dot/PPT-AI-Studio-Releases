@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.6.8",
+  "version": "1.6.9",
   "channel": "stable",
-  "update_log": "更新内容：\n- 优化：重构 Windows 安装程序启动逻辑，使用前台激活方法\n- 新增：支持应用更新安装功能",
+  "update_log": "更新内容：\n- 优化：更新帮助与支持设置界面\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
