@@ -1,18 +1,18 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.6.3",
+  "latest_version": "1.6.4",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.6.3",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.6.3.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.6.4",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.6.4.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.3/PPT_AI_Studio_Setup_x64_v1.6.3.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.3/PPT_AI_Studio_Setup_x64_v1.6.3.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.4/PPT_AI_Studio_Setup_x64_v1.6.4.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.4/PPT_AI_Studio_Setup_x64_v1.6.4.exe"
   ],
-  "sha256": "f329a1be0bf2813c114a7f7488d7cc64f6d0a9f5e78fa05e4ada7e26745ad041",
-  "size": 60111898,
+  "sha256": "3cefc161235622e4fffe487e4c471f265e9fc78bc57d02402b6c3d71b260109e",
+  "size": 60168828,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 优化：将提示内容翻译为中文并调整表达方式\n- 优化：重构内容处理逻辑，支持渲染视图解析\n- 优化：将表格转换默认值从“table”改为“default”\n- 优化：调整主题创作和文档转化的节点处理逻辑\n- 优化：改进任务运行时跟踪和状态管理\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则",
+  "update_log": "更新内容：\n- 优化表格图表方向与数量选型\n- 新增：支持双轴柱线图类型\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
   "purchase_urls": {
     "activation": {
       "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",

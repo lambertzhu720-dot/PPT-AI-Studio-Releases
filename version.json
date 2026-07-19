@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "channel": "stable",
-  "update_log": "更新内容：\n- 优化：将提示内容翻译为中文并调整表达方式\n- 优化：重构内容处理逻辑，支持渲染视图解析\n- 优化：将表格转换默认值从“table”改为“default”\n- 优化：调整主题创作和文档转化的节点处理逻辑\n- 优化：改进任务运行时跟踪和状态管理\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则",
+  "update_log": "更新内容：\n- 优化表格图表方向与数量选型\n- 新增：支持双轴柱线图类型\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
