@@ -1,18 +1,18 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.6.4",
+  "latest_version": "1.6.6",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.6.4",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.6.4.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.6.6",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.6.6.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.4/PPT_AI_Studio_Setup_x64_v1.6.4.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.4/PPT_AI_Studio_Setup_x64_v1.6.4.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.6/PPT_AI_Studio_Setup_x64_v1.6.6.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.6/PPT_AI_Studio_Setup_x64_v1.6.6.exe"
   ],
-  "sha256": "3cefc161235622e4fffe487e4c471f265e9fc78bc57d02402b6c3d71b260109e",
-  "size": 60168828,
+  "sha256": "346e5a16bc46d97cb7da60da549bf888559fc9b784439a0aed5e89ff809ea4de",
+  "size": 60167911,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 优化表格图表方向与数量选型\n- 新增：支持双轴柱线图类型\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
+  "update_log": "更新内容：\n- 优化：更新新手入门录屏操作卡，增加详细录制步骤和注意事项\n- 扩展表格时间标签识别\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
   "purchase_urls": {
     "activation": {
       "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",

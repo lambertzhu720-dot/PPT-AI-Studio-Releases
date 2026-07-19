@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.6.4",
+  "version": "1.6.6",
   "channel": "stable",
-  "update_log": "更新内容：\n- 优化表格图表方向与数量选型\n- 新增：支持双轴柱线图类型\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
+  "update_log": "更新内容：\n- 优化：更新新手入门录屏操作卡，增加详细录制步骤和注意事项\n- 扩展表格时间标签识别\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
