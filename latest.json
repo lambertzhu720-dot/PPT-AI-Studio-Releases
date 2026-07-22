@@ -1,18 +1,18 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.6.11",
+  "latest_version": "1.7.0",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.6.11",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.6.11.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.7.0",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.7.0.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.11/PPT_AI_Studio_Setup_x64_v1.6.11.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.6.11/PPT_AI_Studio_Setup_x64_v1.6.11.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.7.0/PPT_AI_Studio_Setup_x64_v1.7.0.exe",
+    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.7.0/PPT_AI_Studio_Setup_x64_v1.7.0.exe"
   ],
-  "sha256": "2e94cc1d3a932c808f7031ef5bf6f37125a94ae6d455e9b952d066ccdce34975",
-  "size": 60260383,
+  "sha256": "ffb852742db833d742b50ce9bb4a2cbdd35edf2f6de55ebb46ca6f11c53ef724",
+  "size": 60426525,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "\n- 更新：替换前端资源文件及调整样式\n- 删除图像提示中的主题字段，优化图像生成逻辑\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
+  "update_log": "\n- 优化：工作区布局切换功能\n- 优化：重构页面块合约生成逻辑\n- 优化：重命名输出工件处理函数并移除不必要的变量\n- 优化：增强内容质量检查与修复机制\n- 新增：支持节点图像草稿生成\n- 新增：收口 V2 目标块配图",
   "purchase_urls": {
     "activation": {
       "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
