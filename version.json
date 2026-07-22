@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "channel": "stable",
-  "update_log": "更新内容：\n- 优化：图表选择与兼容性检查逻辑\n- 更新：增强聊天记录持久化功能及错误处理\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
+  "update_log": "更新内容：\n- 修复：Windows 更新检查与安装包下载改用系统 WinHTTP/Schannel，解决浏览器可访问但应用 TLS 连接失败的问题\n- 增强：更新诊断记录传输类型、失败阶段、WinHTTP 原生错误码和安全失败标志\n- 保持：继续严格校验 HTTPS、重定向、安装包大小、SHA256 与 Authenticode",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json"
