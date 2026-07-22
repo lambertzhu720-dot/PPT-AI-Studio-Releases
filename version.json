@@ -1,13 +1,13 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "channel": "stable",
-  "update_log": "\n- 优化：移除页面预览相关功能和样式\n- 优化：调整页面预览组件的布局和样式\n- 更新：优化页面预览组件和样式，新增元素内容大小监测\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性",
+  "update_log": "更新内容：\n- 优化：图表选择与兼容性检查逻辑\n- 更新：增强聊天记录持久化功能及错误处理\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
-    "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json",
-    "https://ghproxy.com/https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json"
+    "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json"
   ],
+  "manual_update_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/latest",
   "purchase_urls": {
     "activation": {
       "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",

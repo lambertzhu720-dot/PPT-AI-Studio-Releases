@@ -1,18 +1,17 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.7.1",
+  "latest_version": "1.7.2",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.7.1",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.7.1.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.7.2",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.7.2.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.7.1/PPT_AI_Studio_Setup_x64_v1.7.1.exe",
-    "https://ghproxy.com/https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.7.1/PPT_AI_Studio_Setup_x64_v1.7.1.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.7.2/PPT_AI_Studio_Setup_x64_v1.7.2.exe"
   ],
-  "sha256": "35f88211dd0dc8a064ec6e0377e297131089d0a0ebade8b2d2b3fb19a04c50b2",
-  "size": 60432742,
+  "sha256": "d62a1463159a99c98512b9a856b9d72f61ba0753ed1392b4e9956f8b3725107c",
+  "size": 60461173,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "\n- 优化：移除页面预览相关功能和样式\n- 优化：调整页面预览组件的布局和样式\n- 更新：优化页面预览组件和样式，新增元素内容大小监测\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性",
+  "update_log": "更新内容：\n- 优化：图表选择与兼容性检查逻辑\n- 更新：增强聊天记录持久化功能及错误处理\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
   "purchase_urls": {
     "activation": {
       "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
