@@ -1,24 +1,16 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.7.3",
+  "version": "1.8.1",
   "channel": "stable",
-  "update_log": "更新内容：\n- 修复：Windows 更新检查与安装包下载改用系统 WinHTTP/Schannel，解决浏览器可访问但应用 TLS 连接失败的问题\n- 增强：更新诊断记录传输类型、失败阶段、WinHTTP 原生错误码和安全失败标志\n- 保持：继续严格校验 HTTPS、重定向、安装包大小、SHA256 与 Authenticode",
+  "update_log": "更新内容：\n- 全新：授权与额度统一为“权益中心”，一个兑换码可同时增加有效天数和 AI 额度\n- 增强：首次权益、重装恢复、设备解绑和异常兑换核对统一到新的安全权益体系\n- 重要：1.8.0 为授权体系断代版本，从旧版升级时安装器会自动重置旧授权，同时保留预设、对话和生成文件等用户数据",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json"
   ],
   "manual_update_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/latest",
   "purchase_urls": {
-    "activation": {
-      "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
-      "en": ""
-    },
-    "credit": {
-      "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
-      "en": ""
-    },
-    "extension": {
-      "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
+    "entitlement": {
+      "zh": "https://m.tb.cn/h.835NIGK?tk=Pn49guhGY0D",
       "en": ""
     }
   }

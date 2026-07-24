@@ -1,28 +1,20 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.7.3",
+  "latest_version": "1.8.1",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.7.3",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.7.3.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.1",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.1.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.7.3/PPT_AI_Studio_Setup_x64_v1.7.3.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.1/PPT_AI_Studio_Setup_x64_v1.8.1.exe"
   ],
-  "sha256": "fc8ed5d1b58242bc4f74119092d178bc0be723abd675c060f41d4eaaef4dc595",
-  "size": 60508620,
+  "sha256": "287622c841c58ff9fd81e75e74f4dcab49713d4a2db39d32c9d95c340a0440e8",
+  "size": 60570475,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 修复：Windows 更新检查与安装包下载改用系统 WinHTTP/Schannel，解决浏览器可访问但应用 TLS 连接失败的问题\n- 增强：更新诊断记录传输类型、失败阶段、WinHTTP 原生错误码和安全失败标志\n- 保持：继续严格校验 HTTPS、重定向、安装包大小、SHA256 与 Authenticode",
+  "update_log": "更新内容：\n- 全新：授权与额度统一为“权益中心”，一个兑换码可同时增加有效天数和 AI 额度\n- 增强：首次权益、重装恢复、设备解绑和异常兑换核对统一到新的安全权益体系\n- 重要：1.8.0 为授权体系断代版本，从旧版升级时安装器会自动重置旧授权，同时保留预设、对话和生成文件等用户数据",
   "purchase_urls": {
-    "activation": {
-      "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
-      "en": ""
-    },
-    "credit": {
-      "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
-      "en": ""
-    },
-    "extension": {
-      "zh": "https://m.tb.cn/h.R9mA2ac?tk=A7nrgXBIo1W",
+    "entitlement": {
+      "zh": "https://m.tb.cn/h.835NIGK?tk=Pn49guhGY0D",
       "en": ""
     }
   }
