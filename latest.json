@@ -1,17 +1,17 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.8.1",
+  "latest_version": "1.8.2",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.1",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.1.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.2",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.2.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.1/PPT_AI_Studio_Setup_x64_v1.8.1.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.2/PPT_AI_Studio_Setup_x64_v1.8.2.exe"
   ],
-  "sha256": "287622c841c58ff9fd81e75e74f4dcab49713d4a2db39d32c9d95c340a0440e8",
-  "size": 60570475,
+  "sha256": "e4bd26b4db5408c5bef0ad8117f99f94171cac5a220778c53bac7df0d4302658",
+  "size": 60570622,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 全新：授权与额度统一为“权益中心”，一个兑换码可同时增加有效天数和 AI 额度\n- 增强：首次权益、重装恢复、设备解绑和异常兑换核对统一到新的安全权益体系\n- 重要：1.8.0 为授权体系断代版本，从旧版升级时安装器会自动重置旧授权，同时保留预设、对话和生成文件等用户数据",
+  "update_log": "\n- 全新：授权与额度统一为“权益中心”，一个兑换码可同时增加有效天数和 AI 额度\n- 增强：首次权益、重装恢复、设备解绑和异常兑换核对统一到新的安全权益体系\n- 重要：1.8.0 为授权体系断代版本，从旧版升级时安装器会自动重置旧授权，同时保留预设、对话和生成文件等用户数据",
   "purchase_urls": {
     "entitlement": {
       "zh": "https://m.tb.cn/h.835NIGK?tk=Pn49guhGY0D",
