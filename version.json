@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.8.6",
+  "version": "1.8.7",
   "channel": "stable",
-  "update_log": "\n- 高亮字库预览和渲染统一化\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
+  "update_log": "\n- 工作台 PPT 导出改为直接从项目数据渲染，移除临时 Excel 中转。\n- 优化多行块标题装饰条高度，使预览与导出效果更协调。\n- 对齐结构预览与 PPT 的标题装饰、背景带和正文元素外观。\n- 修复已知问题",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json"
