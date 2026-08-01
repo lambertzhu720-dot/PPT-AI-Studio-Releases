@@ -1,17 +1,17 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.8.5",
+  "latest_version": "1.8.6",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.5",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.5.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.6",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.6.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.5/PPT_AI_Studio_Setup_x64_v1.8.5.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.6/PPT_AI_Studio_Setup_x64_v1.8.6.exe"
   ],
-  "sha256": "5578afe935682d0bb2689575b2ebc753cc1175648afd409fd3ec367d2199f5e2",
-  "size": 61128730,
+  "sha256": "42035731eba4da14baff51c1dbef172cb76e29d66a0d0079c1d22f828ca6188e",
+  "size": 61147105,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "\n- 小错误修复\n- .pptai 已注册稳定文件关联，支持冷启动打开、运行中转交及窗口唤醒/任务栏提示\n- 修复底层预设不匹配问题\n- 完善预设问题\n- 已修复，图片报错弹窗视图",
+  "update_log": "\n- 高亮字库预览和渲染统一化\n- 文档：补充发布流程说明和项目进展记录，明确版本更新说明维护规则\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更\n- 更新：同步版本和配置相关文件，保持发布元数据一致",
   "purchase_urls": {
     "entitlement": {
       "zh": "https://m.tb.cn/h.835NIGK?tk=Pn49guhGY0D",
