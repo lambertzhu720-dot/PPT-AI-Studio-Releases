@@ -1,17 +1,17 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.8.10",
+  "latest_version": "1.8.11",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.10",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.10.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.11",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.11.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.10/PPT_AI_Studio_Setup_x64_v1.8.10.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.11/PPT_AI_Studio_Setup_x64_v1.8.11.exe"
   ],
-  "sha256": "04357d534fe8ee25fd3837343f0f8f89c1261f067b880df8a5b14b78e51f2731",
-  "size": 61241179,
+  "sha256": "4a5eafe98d29ac0b15722bd28b759428bee8e14cdf3181f4506ed923627669ba",
+  "size": 61246350,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 新增块标题样式设置，支持字重、字号、文字颜色及标题背景带的继承、指定颜色和无背景。\n- 文本节点和块标题字号范围扩展至 72pt，保留 0.5pt 步长和显式校验。\n- 统一块标题布局估算、结构预览与 PPT 渲染，字号变化同步影响装饰条和正文起始位置。\n- 完善 .pptai 项目文件对块标题样式和大字号文本的保存、打开及版本兼容。",
+  "update_log": "更新内容：\n- 优化文本节点结构预览的字号、字重和换行规则，缩小与实际 PPT 渲染的排版差异。",
   "purchase_urls": {
     "entitlement": {
       "zh": "https://m.tb.cn/h.835NIGK?tk=Pn49guhGY0D",
