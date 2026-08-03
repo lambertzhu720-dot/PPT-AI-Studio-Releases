@@ -1,17 +1,17 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.8.8",
+  "latest_version": "1.8.9",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.8",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.8.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.9",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.9.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.8/PPT_AI_Studio_Setup_x64_v1.8.8.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.9/PPT_AI_Studio_Setup_x64_v1.8.9.exe"
   ],
-  "sha256": "5738551ac445a3e39cd8b8f6654bcc0617a2db4c08e9438f3539f3527321f4ae",
-  "size": 61207486,
+  "sha256": "6c10210eb34b327417cb3fe41f1bf4014f2f080a471ba8b794b212b9e1a869c4",
+  "size": 61218004,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 新增文本节点样式设置，支持显式加粗、文字颜色和文本框背景色。\n- 结构预览与 PPT 渲染统一应用文本节点样式。\n- 优化文本框内容高度与垂直对齐，减少单行文本的空白背景。\n- 完善 .pptai 项目文件对文本节点样式的保存、打开和插入兼容。",
+  "update_log": "更新内容：\n- 新增文本节点字号设置，支持 6–36pt、0.5pt 步长及继承当前 PPT 样式。\n- 结构预览、布局估算与 PPT 渲染统一应用文本节点字号。\n- 完善 .pptai 项目文件保存、打开和插入时的字号样式兼容。\n- 修复字号输入时文本样式弹窗异常退出的问题。",
   "purchase_urls": {
     "entitlement": {
       "zh": "https://m.tb.cn/h.835NIGK?tk=Pn49guhGY0D",
