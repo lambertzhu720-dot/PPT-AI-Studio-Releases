@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.8.9",
+  "version": "1.8.10",
   "channel": "stable",
-  "update_log": "更新内容：\n- 新增文本节点字号设置，支持 6–36pt、0.5pt 步长及继承当前 PPT 样式。\n- 结构预览、布局估算与 PPT 渲染统一应用文本节点字号。\n- 完善 .pptai 项目文件保存、打开和插入时的字号样式兼容。\n- 修复字号输入时文本样式弹窗异常退出的问题。",
+  "update_log": "更新内容：\n- 新增块标题样式设置，支持字重、字号、文字颜色及标题背景带的继承、指定颜色和无背景。\n- 文本节点和块标题字号范围扩展至 72pt，保留 0.5pt 步长和显式校验。\n- 统一块标题布局估算、结构预览与 PPT 渲染，字号变化同步影响装饰条和正文起始位置。\n- 完善 .pptai 项目文件对块标题样式和大字号文本的保存、打开及版本兼容。",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json"
