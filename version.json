@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.8.7",
+  "version": "1.8.8",
   "channel": "stable",
-  "update_log": "\n- 工作台 PPT 导出改为直接从项目数据渲染，移除临时 Excel 中转。\n- 优化多行块标题装饰条高度，使预览与导出效果更协调。\n- 对齐结构预览与 PPT 的标题装饰、背景带和正文元素外观。\n- 修复已知问题",
+  "update_log": "更新内容：\n- 新增文本节点样式设置，支持显式加粗、文字颜色和文本框背景色。\n- 结构预览与 PPT 渲染统一应用文本节点样式。\n- 优化文本框内容高度与垂直对齐，减少单行文本的空白背景。\n- 完善 .pptai 项目文件对文本节点样式的保存、打开和插入兼容。",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json"
