@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.8.16",
+  "version": "1.8.17",
   "channel": "stable",
-  "update_log": "\n- 修复：修复自动更新助手预备交接\n- 修复：修复编辑器结构删除后的焦点跳转\n- 修复：修复 AI 对话和生图历史恢复\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
+  "update_log": "\n- 修复：修复手动布局结构操作交互\n- 修复：修复自动更新助手预备交接\n- 修复：修复编辑器结构删除后的焦点跳转\n- 修复：修复 AI 对话和生图历史恢复\n- 优化：调整前端交互和显示文案，提升主流程提示一致性",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json"
