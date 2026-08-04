@@ -1,8 +1,8 @@
 {
   "app_name": "PPT AI Studio",
-  "version": "1.8.12",
+  "version": "1.8.13",
   "channel": "stable",
-  "update_log": "更新内容：\n- 新增 PPT 页面自定义排版，支持块与节点拖拽、缩放并自动保存。\n- 支持对自动分页后的多页逐页调整，并可恢复系统排版。\n- 修复自定义排版页面复制、节点编辑采纳和结构预览溢出显示问题。\n- 修复表格节点缩放后预览与 PPT 渲染尺寸不一致问题，并按文字可见性推导最小高度。\n- 修复正文宽度估算中行高参数缺失导致的异常。",
+  "update_log": "更新内容：\n- 修复自动更新下载安装时无法自动关闭主程序的问题。\n- 更新包校验完成后先关闭应用，再在主进程退出后启动安装程序。\n- 增加安装前的文件大小、SHA256 和签名复验，提升更新可靠性与安全性。",
   "update_manifest_url": "https://update.pptaistudio.com/latest.json",
   "update_manifest_mirror_urls": [
     "https://raw.githubusercontent.com/lambertzhu720-dot/PPT-AI-Studio-Releases/main/latest.json"
