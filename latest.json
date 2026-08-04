@@ -1,17 +1,17 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.8.15",
+  "latest_version": "1.8.16",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.15",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.15.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.16",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.16.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.15/PPT_AI_Studio_Setup_x64_v1.8.15.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.16/PPT_AI_Studio_Setup_x64_v1.8.16.exe"
   ],
-  "sha256": "e697f21b091612c5653410e1c3b059c0359382ab52c4b3d6b28e500513da4531",
-  "size": 61378773,
+  "sha256": "027d26dc854fd9698c67eff2ab472a318e3c375deaa80d4e6885a9652821d2d1",
+  "size": 61401816,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "\n- 修复：修复编辑器结构删除后的焦点跳转\n- 修复：修复 AI 对话和生图历史恢复\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
+  "update_log": "\n- 修复：修复自动更新助手预备交接\n- 修复：修复编辑器结构删除后的焦点跳转\n- 修复：修复 AI 对话和生图历史恢复\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
   "purchase_urls": {
     "entitlement": {
       "zh": "https://m.tb.cn/h.835NIGK?tk=Pn49guhGY0D",
