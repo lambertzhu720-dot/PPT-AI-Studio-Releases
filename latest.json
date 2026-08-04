@@ -1,17 +1,17 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.8.11",
+  "latest_version": "1.8.12",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.11",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.11.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.12",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.12.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.11/PPT_AI_Studio_Setup_x64_v1.8.11.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.12/PPT_AI_Studio_Setup_x64_v1.8.12.exe"
   ],
-  "sha256": "4a5eafe98d29ac0b15722bd28b759428bee8e14cdf3181f4506ed923627669ba",
-  "size": 61246350,
+  "sha256": "ad8de0cd7b8d7987b67b3dc2ab68f5ae35e49ab8ae37733f2562bf6c43b9aef7",
+  "size": 61357705,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 优化文本节点结构预览的字号、字重和换行规则，缩小与实际 PPT 渲染的排版差异。",
+  "update_log": "更新内容：\n- 新增 PPT 页面自定义排版，支持块与节点拖拽、缩放并自动保存。\n- 支持对自动分页后的多页逐页调整，并可恢复系统排版。\n- 修复自定义排版页面复制、节点编辑采纳和结构预览溢出显示问题。\n- 修复表格节点缩放后预览与 PPT 渲染尺寸不一致问题，并按文字可见性推导最小高度。\n- 修复正文宽度估算中行高参数缺失导致的异常。",
   "purchase_urls": {
     "entitlement": {
       "zh": "https://m.tb.cn/h.835NIGK?tk=Pn49guhGY0D",
