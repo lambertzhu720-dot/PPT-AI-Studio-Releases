@@ -1,17 +1,17 @@
 {
   "app_name": "PPT AI Studio",
-  "latest_version": "1.8.13",
+  "latest_version": "1.8.15",
   "channel": "stable",
-  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.13",
-  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.13.exe",
+  "release_url": "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/tag/v1.8.15",
+  "download_url": "https://update.pptaistudio.com/windows/PPT_AI_Studio_Setup_x64_v1.8.15.exe",
   "mirror_urls": [
-    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.13/PPT_AI_Studio_Setup_x64_v1.8.13.exe"
+    "https://github.com/lambertzhu720-dot/PPT-AI-Studio-Releases/releases/download/v1.8.15/PPT_AI_Studio_Setup_x64_v1.8.15.exe"
   ],
-  "sha256": "69695c27c26f344b36446c29f77d75635b9996d6ffc5b432e4cc2bf696b303a6",
-  "size": 61382135,
+  "sha256": "e697f21b091612c5653410e1c3b059c0359382ab52c4b3d6b28e500513da4531",
+  "size": 61378773,
   "signing_mode": "disabled",
   "authenticode_required": false,
-  "update_log": "更新内容：\n- 修复自动更新下载安装时无法自动关闭主程序的问题。\n- 更新包校验完成后先关闭应用，再在主进程退出后启动安装程序。\n- 增加安装前的文件大小、SHA256 和签名复验，提升更新可靠性与安全性。",
+  "update_log": "\n- 修复：修复编辑器结构删除后的焦点跳转\n- 修复：修复 AI 对话和生图历史恢复\n- 优化：调整前端交互和显示文案，提升主流程提示一致性\n- 优化：调整后端能力与运行逻辑，增强主流程稳定性\n- 补充：增加相关自动化测试，覆盖本次发布摘要和核心流程变更",
   "purchase_urls": {
     "entitlement": {
       "zh": "https://m.tb.cn/h.835NIGK?tk=Pn49guhGY0D",
